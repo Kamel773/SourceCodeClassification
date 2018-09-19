@@ -11,4 +11,11 @@ Website: http://scikit-learn.org
 * Dataset https://drive.google.com/open?id=1leMs0rdKAfX1UYEhSEe9a1npIWrIvqr6
 
 
-## How to Use SCC
+# How to Use SCC
+
+
+
+# Help and Support
+
+Kamel Alrashedy (Kamel@uvic.ca)
+
